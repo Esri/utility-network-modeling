@@ -24,7 +24,7 @@ A repo for the modeling of utility network configurations
 - The Readme should discuss the pros and cons over the detailed vs simple
 
 ### Additional Help
-
+For Mike's images - \\\esri.com\departments\Development\Geodatabase\Orion\Documents\Electric System Images 
 [Utility Network Configurations](http://solutions.arcgis.com/gallery/#s=0&q=%22utility%20network%22)
 
 
