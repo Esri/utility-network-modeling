@@ -12,19 +12,18 @@ A repo for the modeling of utility network configurations
 - Create a folder for each industry
 - Create a folder for each configuration
 - Create the following content for each variation
-	- PPT
-	- AI
-	- JPG of configuration
-	- JPG of configuration with labels
+	- PDFs
+	- JPG of real photo
+	- JPG of of real photo with labels
 	- Readme
-- The PPT and AI should model the same content
+- There should be a PDFs of each of the following 
 	- Representation in the GN
 	- Simple Representation in the UN
 	- Detailed Representation in the UN
 - The Readme should discuss the pros and cons over the detailed vs simple
 
 ### Additional Help
-
+For Mike's images - \\\esri.com\departments\Development\Geodatabase\Orion\Documents\Electric System Images 
 [Utility Network Configurations](http://solutions.arcgis.com/gallery/#s=0&q=%22utility%20network%22)
 
 
