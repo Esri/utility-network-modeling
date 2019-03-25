@@ -11,4 +11,4 @@
 ## Three phase delta
   - Notes
   - Advantages
-  - Disadvantages
+  - Disadvantages changed
