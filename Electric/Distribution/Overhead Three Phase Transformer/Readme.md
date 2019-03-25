@@ -4,7 +4,11 @@
   - Notes
   - Advantages
   - Disadvantages
-##UN Detail Configuration Info
+## Three phase wye with riser
+  - Notes
+  - Advantages
+  - Disadvantages
+## Three phase delta
   - Notes
   - Advantages
   - Disadvantages
