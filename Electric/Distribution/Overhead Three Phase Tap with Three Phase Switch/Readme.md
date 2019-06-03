@@ -2,7 +2,8 @@
   - Notes
 ##UN Detail Configuration Info
   - Notes
-    - Example of Three Phase line being tapped by a three phase line using a single gang operated switch to isolate the tap.
+    - Example of Three Phase line being tapped by a three phase line using a single gang operated switch to isolate the tap
+    - It is assumed this device cannot be operated by phase and that the device status will be the same for all three phases at all times
   - Advantages
     - Supports Phase Management of balanced or unbalanced three phase systems
     - Eliminates use of complex related tables for devices, improving overall performance and conflict reduction
