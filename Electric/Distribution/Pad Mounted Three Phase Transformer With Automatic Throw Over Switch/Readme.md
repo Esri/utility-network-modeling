@@ -1,10 +1,7 @@
 ## GN Configuration Info
   - Notes
-## UN Simple Configuration Info
-  - Notes
-  - Advantages
-  - Disadvantages
 ##UN Detail Configuration Info
   - Notes
-  - Advantages
-  - Disadvantages
+    - Multiple service types (single and three phase) from transformer
+    - Individual elbows per phase so that each can be operated independtly
+    - Container hiding detailed equipment configuration view

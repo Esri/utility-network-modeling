@@ -1,10 +1,8 @@
 ## GN Configuration Info
   - Notes
-## UN Simple Configuration Info
-  - Notes
-  - Advantages
-  - Disadvantages
 ##UN Detail Configuration Info
   - Notes
-  - Advantages
-  - Disadvantages
+    - Demonstrates lines from two different subnetworks being supported by the same structure junction (pole)
+    - Tracing either subnetwork can return the pole
+    - Provides association from Attachment to pole which is also used by StructureMountDetail table to provide conductor spacing at this location
+    
